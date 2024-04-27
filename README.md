@@ -5,7 +5,7 @@ This project works on finding the median by using unordered data and allowing th
 This approach will been done by:
 
 - median-finding algorithms
-- randomized median finding algorithm by use QuickSelect Algorithm
+- randomized median finding algorithm by QuickSelect Algorithm
 
   
   [READ.ME.ALgorithms.txt](https://github.com/Jenan-Ibrahim/Median-finding-Order-Statistics-and-Quick-Sort/files/15138316/READ.ME.ALgorithms.txt)
